@@ -1,0 +1,4 @@
+# Kata-8
+
+const array =[2, 8, 12, 19, 24, 35]
+console.log(Math.min(...array))
