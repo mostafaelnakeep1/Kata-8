@@ -1,0 +1,3 @@
+// by slice
+const salah = ("mohammed samy abdelhameid")
+console.log(salah.slice(1, -1))
