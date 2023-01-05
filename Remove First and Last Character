@@ -1,3 +1,10 @@
 // by slice
-const salah = ("mohammed samy abdelhameid")
+const character = ("mohammed samy abdelhameid")
 console.log(salah.slice(1, -1))
+
+
+// by substring 
+const character = (`mohammed samy abdelhameid`);
+const result = character.substring(1, character.length-1);
+
+console.log(result);
