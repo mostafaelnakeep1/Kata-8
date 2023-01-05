@@ -1,5 +1,6 @@
 // by slice
 const character = ("mohammed samy abdelhameid")
+
 console.log(salah.slice(1, -1))
 
 
