@@ -1,0 +1,6 @@
+# Kata-8
+
+function  BooleanString (b){
+    if (b) return "true";
+    return "false";
+}
